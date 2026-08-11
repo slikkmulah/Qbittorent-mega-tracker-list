@@ -35,5 +35,5 @@ jobs:
         git config --global user.email "41898282+github-actions[bot]@://github.com"
         git add combined_trackers.txt
         # Only commit if changes exist to avoid empty errors
-        git diff-index --quiet HEAD || git commit -m "Automated daily tracker update"
+        git pull --rebase
         git push
