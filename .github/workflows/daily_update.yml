@@ -1,0 +1,39 @@
+name: Daily Tracker Sync
+
+on:
+  schedule:
+    # Runs everyday at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run this manually anytime from the GitHub website
+
+jobs:
+  build_and_run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants permission to push the updated file back to your repo
+
+    steps:
+    - name: Checkout repository code
+      uses: actions/checkout@v4
+
+    - name: Set up Python environment
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run tracking aggregation script
+      run: python update_trackers.py
+
+    - name: Commit and push updated text file
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@://github.com"
+        git add combined_trackers.txt
+        # Only commit if changes exist to avoid empty errors
+        git diff-index --quiet HEAD || git commit -m "Automated daily tracker update"
+        git push
