@@ -1,14 +1,13 @@
 import requests
 
 # Define the sources
-URLS = [
+urls = [
     "https://raw.githubusercontent.com/ngosang/trackerslist/refs/heads/master/trackers_all.txt",
     "https://newtrackon.com/api/stable",
     "https://newtrackon.com/api/live",
-    "https://newtrackon.com/api/http",
     "https://newtrackon.com/api/all",
     "https://newtrackon.com/api/udp",
-    "https://raw.githubusercontent.com/XIU2/TrackersListCollection/refs/heads/master/all.txt"
+    "https://newtrackon.com/api/http"
 ]
 
 def main():
