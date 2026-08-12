@@ -13,7 +13,7 @@ urls = [
 def main():
     unique_trackers = set()
 
-    for url in URLS:
+    for url in urls:  # Changed from URLS to urls
         try:
             print(f"Fetching: {url}")
             response = requests.get(url, timeout=15)
@@ -24,7 +24,7 @@ def main():
                 cleaned = line.strip()
                 if cleaned and not cleaned.startswith("#"):
                     unique_trackers.add(cleaned)
-                    
+                        
         except requests.exceptions.RequestException as e:
             print(f"Failed to fetch {url}: {e}")
 
