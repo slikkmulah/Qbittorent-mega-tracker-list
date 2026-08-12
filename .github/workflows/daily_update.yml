@@ -1,42 +1,42 @@
 name: Daily Tracker Sync
+
 on:
-  push:
-    branches: [ "main" ]
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build_and_run:
     runs-on: ubuntu-latest
+
     permissions:
-      contents: write # Grants permission to push the updated file back to your repo
+      contents: write
 
     steps:
-    - name: Checkout repository code
-      uses: actions/checkout@v4
+      - name: Checkout repository code
+        uses: actions/checkout@v4
 
-    - name: Set up Python environment
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
+      - name: Set up Python environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-    - name: Run tracking aggregation script
-      run: python update_trackers.py
+      - name: Run tracking aggregation script
+        run: python update_trackers.py
 
-    - name: Commit and push updated text file
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add combined_trackers.txt
-        # Fetch latest changes and rebase
-        git fetch origin
-        git rebase origin/main
-        # Only commit if changes exist
-        git diff --cached --quiet || git commit -m "Update trackers list"
-        git push
+      - name: Commit and push updated text file
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add combined_trackers.txt
+
+          # Only commit if the file actually changed
+          git diff --cached --quiet || git commit -m "Update trackers list"
+
+          git push origin main
