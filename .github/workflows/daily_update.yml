@@ -12,11 +12,13 @@ jobs:
       contents: write
 
     steps:
+      # Upgraded from @v4 to @v6 to resolve Node.js 20 deprecation
       - name: Checkout repository code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
+      # Upgraded from @v5 to @v6 to resolve Node.js 20 deprecation
       - name: Set up Python environment
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
@@ -33,11 +35,9 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Only proceed if the target file exists
           if [ -f combined_trackers.txt ]; then
             git add combined_trackers.txt
             
-            # Commit and push only if changes exist
             if ! git diff --cached --quiet; then
               git commit -m "Update trackers list"
               git pull --rebase origin main
