@@ -85,7 +85,6 @@ https://1337.abcvg.info:443/announce
 https://api.ipv4online.uk:443/announce
 https://banananetwork.qzz.io:443/announce
 https://bittracker.nekosunevr.co.uk:443/announce
-https://bt.080609.xyz:443/announce
 https://bt2.080609.xyz:443/announce
 https://cny.fan:443/announce
 https://edgev.duckdns.org:443/announce
