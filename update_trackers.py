@@ -4,6 +4,7 @@ import requests
 urls = [
     "https://raw.githubusercontent.com/ngosang/trackerslist/refs/heads/master/trackers_all.txt",
     "https://newtrackon.com/api/stable",
+    "https://trackers.run/s/wp_up_hp_hs_v4_v6.txt",
     "https://newtrackon.com/api/live",
     "https://newtrackon.com/api/all",
     "https://newtrackon.com/api/udp",
