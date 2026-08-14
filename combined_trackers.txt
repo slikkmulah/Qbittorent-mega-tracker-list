@@ -3,6 +3,7 @@ http://0123456789nonexistent.com:80/announce
 http://0d.kebhana.mx:443/announce
 http://1337.abcvg.info:80/announce
 http://207.241.226.111:6969/announce
+http://207.241.231.226:6969/announce
 http://211.75.205.188:80/announce
 http://211.75.205.189:80/announce
 http://211.75.210.221:80/announce
