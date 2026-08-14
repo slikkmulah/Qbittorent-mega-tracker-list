@@ -5,6 +5,10 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
+concurrency:
+  group: daily-tracker-sync
+  cancel-in-progress: false
+
 jobs:
   build_and_run:
     runs-on: ubuntu-latest
@@ -12,11 +16,11 @@ jobs:
       contents: write
 
     steps:
-      # Upgraded from @v4 to @v6 to resolve Node.js 20 deprecation
       - name: Checkout repository code
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
-      # Upgraded from @v5 to @v6 to resolve Node.js 20 deprecation
       - name: Set up Python environment
         uses: actions/setup-python@v6
         with:
@@ -25,7 +29,9 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
 
       - name: Run tracking aggregation script
         run: python update_trackers.py
@@ -34,18 +40,19 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          if [ -f combined_trackers.txt ]; then
-            git add combined_trackers.txt
-            
-            if ! git diff --cached --quiet; then
-              git commit -m "Update trackers list"
-              git pull --rebase origin main
-              git push origin main
-            else
-              echo "No changes detected in combined_trackers.txt"
-            fi
-          else
+
+          if [ ! -f combined_trackers.txt ]; then
             echo "Error: combined_trackers.txt was not created by the script."
             exit 1
           fi
+
+          git add combined_trackers.txt
+
+          if git diff --cached --quiet; then
+            echo "No changes detected in combined_trackers.txt"
+            exit 0
+          fi
+
+          git commit -m "Update trackers list"
+
+          git push origin HEAD:main
