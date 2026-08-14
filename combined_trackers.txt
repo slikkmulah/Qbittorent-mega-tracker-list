@@ -2,6 +2,11 @@ http://004430.xyz:80/announce
 http://0123456789nonexistent.com:80/announce
 http://0d.kebhana.mx:443/announce
 http://1337.abcvg.info:80/announce
+http://207.241.226.111:6969/announce
+http://207.241.231.226:6969/announce
+http://211.75.205.188:80/announce
+http://211.75.205.189:80/announce
+http://211.75.210.221:80/announce
 http://66691337.xyz:6969/announce
 http://asiatorrent.ddns.net:51413/announce
 http://asiatorrent.giize.com:51413/announce
@@ -55,6 +60,7 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://tr.kxmp.cf:80/announce
 http://tr.nyacat.pw:80/announce
 http://tracker.23794.top:6969/announce
+http://tracker.auctor.tv:6969/announce
 http://tracker.beeimg.com:6969/announce
 http://tracker.bittor.pw:1337/announce
 http://tracker.bt-hash.com:80/announce
@@ -146,6 +152,7 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.gcrenwp.top:443/announce
 https://tracker.guguan.us.kg:443/announce
 https://tracker.iochimari.moe:443/announce
+https://tracker.isbigdick.cc.cd:443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.leechshield.link:443/announce
 https://tracker.lenition.de:443/announce
@@ -170,8 +177,16 @@ https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp:443/announce
 https://ttracker.just-h.party:443/announce
 https://wsad.run.place:443/announce
+udp://132.226.6.145:6969/announce
+udp://185.171.202.111:6969/announce
+udp://193.34.92.5:80/announce
 udp://1c.premierzal.ru:6969/announce
+udp://31.38.161.123:6969/announce
+udp://43.154.112.29:17272/announce
+udp://51.15.41.46:6969/announce
+udp://60.249.37.20:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://89.234.156.205:451/announce
 udp://admin.52ywp.com:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://anna.bt.bontal.net:6969/announce
@@ -310,6 +325,7 @@ udp://v6.vito-tracker.space:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://vito-tracker.duckdns.org:6969/announce
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
+udp://wegkxfcivgx.ydns.eu:80/announce
 udp://wepzone.net:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
 udp://www.2600.com:6969/announce
