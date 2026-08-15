@@ -12,6 +12,8 @@ http://211.75.210.221/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 
+http://asiatorrent.giize.com:51413/announce
+
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -72,8 +74,6 @@ https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
 
-https://pybittrack.retiolus.net/announce
-
 https://t.213891.xyz/announce
 
 https://tr.nyacat.pw/announce
@@ -106,8 +106,6 @@ https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
 
-https://tracker.yemekyedim.com/announce
-
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
@@ -130,13 +128,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
 
-udp://edgev.duckdns.org:6969/announce
-
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
@@ -157,8 +151,6 @@ udp://open.ftorrent.com:443/announce
 udp://open.stealth.si:80/announce
 
 udp://rekcart.duckdns.org:15480/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -204,6 +196,10 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.fnix.net:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
+
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -212,9 +208,7 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
-udp://tracker.opentrackr.com:6969/announce
-
-udp://tracker.peerfect.org:6969/announce
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.playground.ru:6969/announce
 
@@ -225,6 +219,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
