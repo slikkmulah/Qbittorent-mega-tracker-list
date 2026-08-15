@@ -30,17 +30,17 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
+http://open.trackerlist.xyz/announce
+
 http://retracker.spark-rostov.ru/announce
-
-http://seeders-paradise.org/announce
-
-http://share.hkg-fansub.info/announce.php
 
 http://t.overflow.biz:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
 http://tr.kxmp.cf/announce
+
+http://tracker.23794.top:6969/announce
 
 http://tracker.auctor.tv:6969/announce
 
@@ -64,6 +64,8 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
@@ -72,15 +74,13 @@ http://tracker.zhuqiy.dgj055.icu/announce
 
 http://tracker2.dler.org/announce
 
-http://www.torrentsnipe.info:2701/announce
+http://www.genesis-sp.org:2710/announce
 
 https://004430.xyz/announce
 
 https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
-
-https://pybittrack.retiolus.net/announce
 
 https://t.213891.xyz/announce
 
@@ -170,6 +170,8 @@ udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://seedpeer.net:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
@@ -194,6 +196,8 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -210,10 +214,6 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -222,13 +222,11 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
+udp://tracker.opentrackr.com:6969/announce
+
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
-
-udp://tracker.plx.im:6969/announce
-
-udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -245,3 +243,5 @@ udp://tracker2.dler.org:80/announce
 udp://udp.tracker.linvk.com:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
+
+udp://zer0day.ch:1337/announce
