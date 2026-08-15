@@ -36,6 +36,12 @@ jobs:
       - name: Run tracking aggregation script
         run: python update_trackers.py
 
+      - name: Test trackers with TrackerPing
+        run: trackerping -l -o working_trackers.txt combined_trackers.txt
+
+      - name: Replace combined list with working trackers
+        run: mv working_trackers.txt combined_trackers.txt
+
       - name: Commit and push updated text file
         run: |
           git config --global user.name "github-actions[bot]"
