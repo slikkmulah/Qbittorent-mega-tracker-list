@@ -1,5 +1,7 @@
 http://004430.xyz/announce
 
+http://1337.abcvg.info/announce
+
 http://207.241.226.111:6969/announce
 
 http://207.241.231.226:6969/announce
@@ -70,8 +72,6 @@ http://tracker2.dler.org/announce
 
 https://004430.xyz/announce
 
-https://1337.abcvg.info/announce
-
 https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
@@ -126,21 +126,25 @@ udp://60.249.37.20:6969/announce
 
 udp://89.234.156.205:451/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://archive.torrentonline.cc:42069/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
 
+udp://edgev.duckdns.org:6969/announce
+
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
+
+udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -160,13 +164,13 @@ udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://torrent.tracker.durukanbal.com:6969/announce
 
 udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://tr.btube3.com:2010/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -200,11 +204,7 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.fnix.net:6969/announce
-
-udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
@@ -214,9 +214,13 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
+udp://tracker.opentrackr.com:6969/announce
+
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
+
+udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
