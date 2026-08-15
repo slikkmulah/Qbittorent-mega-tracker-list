@@ -20,8 +20,6 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
-http://ch3oh.ru:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
@@ -33,8 +31,6 @@ http://t.overflow.biz:6969/announce
 http://tr.kxmp.cf/announce
 
 http://tr.nyacat.pw/announce
-
-http://tracker.23794.top:6969/announce
 
 http://tracker.auctor.tv:6969/announce
 
@@ -105,6 +101,8 @@ https://tracker.nekomi.cn/announce
 https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
+
+https://tracker.yemekyedim.com/announce
 
 https://tracker.zhuqiy.com/announce
 
@@ -202,7 +200,7 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -216,11 +214,11 @@ udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
+udp://tracker.opentrackr.org:1337/announce
+
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
-
-udp://tracker.plx.im:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
