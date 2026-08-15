@@ -26,23 +26,25 @@ http://ch3oh.ru:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://jvavav.com/announce
-
 http://lucke.fenesisu.moe:6969/announce
+
+http://ns3109441.mypdns.org:6969/announce
 
 http://retracker.spark-rostov.ru/announce
 
-http://shubt.net:2710/announce
+http://seeders-paradise.org/announce
+
+http://share.hkg-fansub.info/announce.php
 
 http://t.overflow.biz:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://tr.kxmp.cf/announce
 
 http://tracker.auctor.tv:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.corpscorp.online/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -64,21 +66,21 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
-
 http://tracker.xn--djrq4gl4hvoi.top/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
 http://tracker2.dler.org/announce
 
-http://tracker810.xyz:11450/announce
+http://www.torrentsnipe.info:2701/announce
 
 https://004430.xyz/announce
 
 https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
+
+https://pybittrack.retiolus.net/announce
 
 https://t.213891.xyz/announce
 
@@ -192,8 +194,6 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -212,7 +212,7 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.fnix.net:6969/announce
+udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
@@ -222,11 +222,11 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
-udp://tracker.opentrackr.com:6969/announce
-
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
+
+udp://tracker.plx.im:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
@@ -235,8 +235,6 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
