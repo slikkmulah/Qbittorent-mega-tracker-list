@@ -61,4 +61,5 @@ jobs:
 
           git commit -m "Update trackers list"
 
+          git pull --rebase origin main
           git push origin HEAD:main
