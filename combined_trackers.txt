@@ -1,6 +1,8 @@
 http://004430.xyz/announce
 
-http://1337.abcvg.info/announce
+http://0123456789nonexistent.com/announce
+
+http://0d.kebhana.mx:443/announce
 
 http://207.241.226.111:6969/announce
 
@@ -18,11 +20,15 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt.poletracker.org:2710/announce
+
 http://bt1.archive.org:6969/announce
 
 http://bt1.xxxxbt.cc:6969/announce
 
 http://buny.uk:6969/announce
+
+http://ch3oh.ru:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -42,6 +48,8 @@ http://shubt.net:2710/announce
 
 http://t.overflow.biz:6969/announce
 
+http://torrent.hificode.in:6969/announce
+
 http://tr.kxmp.cf/announce
 
 http://tracker.auctor.tv:6969/announce
@@ -59,6 +67,8 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.dmcomic.org:2710/announce
+
+http://tracker.lintk.me:2710/announce
 
 http://tracker.moxing.party:6969/announce
 
@@ -92,15 +102,13 @@ http://tracker810.xyz:11450/announce
 
 http://www.genesis-sp.org:2710/announce
 
-https://004430.xyz/announce
+http://www.torrentsnipe.info:2701/announce
 
-https://1337.abcvg.info/announce
+https://004430.xyz/announce
 
 https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
-
-https://pybittrack.retiolus.net/announce
 
 https://t.213891.xyz/announce
 
@@ -158,17 +166,15 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
 
-udp://edgev.duckdns.org:6969/announce
-
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://explodie.org:6969/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
-
-udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -188,6 +194,8 @@ udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://seedpeer.net:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
@@ -195,8 +203,6 @@ udp://torrent.tracker.durukanbal.com:6969/announce
 udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://tr.btube3.com:2010/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -228,6 +234,8 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
+udp://tracker.farted.net:6969/announce
+
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -237,8 +245,6 @@ udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
-
-udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.peerfect.org:6969/announce
 
