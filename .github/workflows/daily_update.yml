@@ -7,11 +7,12 @@ on:
 
 concurrency:
   group: daily-tracker-sync
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build_and_run:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
@@ -29,6 +30,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           fi
@@ -36,21 +38,30 @@ jobs:
       - name: Run tracking aggregation script
         run: python update_trackers.py
 
-      - name: Test trackers with TrackerPing
-        run: trackerping -l -o working_trackers.txt combined_trackers.txt
-
-      - name: Replace combined list with working trackers
-        run: mv working_trackers.txt combined_trackers.txt
-
-      - name: Commit and push updated text file
+      - name: Check combined tracker list
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           if [ ! -f combined_trackers.txt ]; then
-            echo "Error: combined_trackers.txt was not created by the script."
+            echo "Error: combined_trackers.txt was not created."
             exit 1
           fi
+
+      - name: Test trackers with TrackerPing
+        run: |
+          trackerping -l -o working_trackers.txt combined_trackers.txt
+
+      - name: Replace combined list with working trackers
+        run: |
+          if [ ! -f working_trackers.txt ]; then
+            echo "Error: TrackerPing did not create working_trackers.txt."
+            exit 1
+          fi
+
+          mv working_trackers.txt combined_trackers.txt
+
+      - name: Commit and push updated tracker list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add combined_trackers.txt
 
@@ -60,6 +71,4 @@ jobs:
           fi
 
           git commit -m "Update trackers list"
-
-          git pull --rebase origin main
           git push origin HEAD:main
