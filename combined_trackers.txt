@@ -18,23 +18,19 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt.poletracker.org:2710/announce
+
 http://bt1.archive.org:6969/announce
 
-http://bt1.xxxxbt.cc:6969/announce
+http://buny.uk:6969/announce
 
 http://ch3oh.ru:6969/announce
 
-http://home.yxgz.club:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
-
-http://jvavav.com/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
-
-http://open.trackerlist.xyz/announce
 
 http://retracker.spark-rostov.ru/announce
 
@@ -42,13 +38,19 @@ http://seeders-paradise.org/announce
 
 http://share.hkg-fansub.info/announce.php
 
+http://shubt.net:2710/announce
+
 http://t.overflow.biz:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://tr.kxmp.cf/announce
 
 http://tr.nyacat.pw/announce
 
 http://tracker.auctor.tv:6969/announce
+
+http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt-hash.com/announce
 
@@ -65,10 +67,6 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.dmcomic.org:2710/announce
-
-http://tracker.ipv6tracker.org/announce
-
-http://tracker.lintk.me:2710/announce
 
 http://tracker.moxing.party:6969/announce
 
@@ -100,7 +98,7 @@ http://tracker2.dler.org/announce
 
 http://tracker810.xyz:11450/announce
 
-http://www.torrentsnipe.info:2701/announce
+http://www.genesis-sp.org:2710/announce
 
 https://004430.xyz/announce
 
@@ -146,8 +144,6 @@ https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
 
-https://tracker.yemekyedim.com/announce
-
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
@@ -172,13 +168,13 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://evan.im:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
-
-udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -197,6 +193,8 @@ udp://open.stealth.si:80/announce
 udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -242,13 +240,13 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.k.vu:6969/announce
 
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
+
+udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
