@@ -28,21 +28,17 @@ http://bt2.archive.org:6969/announce
 
 http://buny.uk:6969/announce
 
-http://home.yxgz.club:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://jvavav.com/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
-http://seeders-paradise.org/announce
-
-http://share.hkg-fansub.info/announce.php
+http://retracker.spark-rostov.ru/announce
 
 http://t.overflow.biz:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://tr.kxmp.cf/announce
 
@@ -56,8 +52,6 @@ http://tracker.bt-hash.com/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz/announce
-
 http://tracker.corpscorp.online/announce
 
 http://tracker.dhitechnical.com:6969/announce
@@ -66,7 +60,7 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.moxing.party:6969/announce
+http://tracker.lintk.me:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -80,11 +74,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.waaa.moe:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
 
@@ -103,8 +93,6 @@ https://1337.abcvg.info/announce
 https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
-
-https://pybittrack.retiolus.net/announce
 
 https://t.213891.xyz/announce
 
@@ -138,6 +126,8 @@ https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
 
+https://tracker.yemekyedim.com/announce
+
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
@@ -166,8 +156,6 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
@@ -179,8 +167,6 @@ udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://obey.torrentonline.cc:42069/announce
-
-udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
@@ -218,8 +204,6 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -236,10 +220,6 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
@@ -249,8 +229,6 @@ udp://tracker.k.vu:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
-
-udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
