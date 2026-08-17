@@ -1,7 +1,5 @@
 http://004430.xyz/announce
 
-http://0123456789nonexistent.com/announce
-
 http://0d.kebhana.mx:443/announce
 
 http://207.241.226.111:6969/announce
@@ -36,11 +34,7 @@ http://jvavav.com/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
 http://open.trackerlist.xyz/announce
-
-http://retracker.spark-rostov.ru/announce
 
 http://seeders-paradise.org/announce
 
@@ -70,13 +64,9 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.dmcomic.org:2710/announce
-
 http://tracker.ipv6tracker.org/announce
 
 http://tracker.lintk.me:2710/announce
-
-http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -104,9 +94,9 @@ http://tracker.zhuqiy.dgj055.icu/announce
 
 http://tracker2.dler.org/announce
 
-http://tracker810.xyz:11450/announce
-
 http://www.genesis-sp.org:2710/announce
+
+http://www.torrentsnipe.info:2701/announce
 
 https://004430.xyz/announce
 
@@ -134,8 +124,6 @@ https://tracker.bt4g.com/announce
 
 https://tracker.bug38.com/announce
 
-https://tracker.cangku.moe/announce
-
 https://tracker.foreverpirates.co/announce
 
 https://tracker.isbigdick.cc.cd/announce
@@ -151,6 +139,8 @@ https://tracker.nekomi.cn/announce
 https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
+
+https://tracker.yemekyedim.com/announce
 
 https://tracker.zhuqiy.com/announce
 
@@ -204,8 +194,6 @@ udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://seedpeer.net:6969/announce
-
 udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
@@ -255,6 +243,8 @@ udp://tracker.k.vu:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
+
+udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
