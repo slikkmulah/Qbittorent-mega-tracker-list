@@ -20,6 +20,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
+http://ns3109441.mypdns.org:6969/announce
+
 http://tr.kxmp.cf/announce
 
 http://tracker.auctor.tv:6969/announce
@@ -46,6 +48,8 @@ https://1337.abcvg.info/announce
 
 https://edgev.duckdns.org/announce
 
+https://pybittrack.retiolus.net/announce
+
 https://t.213891.xyz/announce
 
 https://tr.nyacat.pw/announce
@@ -53,8 +57,6 @@ https://tr.nyacat.pw/announce
 https://tr.zukizuki.org/announce
 
 https://tracker.7471.top/announce
-
-https://tracker.adgk.net/announce
 
 https://tracker.anibt.net/announce
 
@@ -120,6 +122,8 @@ udp://open.stealth.si:80/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://seedpeer.net:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
@@ -162,8 +166,6 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
-udp://tracker.nyaa.vc:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.playground.ru:6969/announce
@@ -171,6 +173,8 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.wildkat.net:6969/announce
 
