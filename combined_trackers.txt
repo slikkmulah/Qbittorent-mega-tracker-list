@@ -20,8 +20,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://bt1.archive.org:6969/announce
 
-http://bt1.xxxxbt.cc:6969/announce
-
 http://bt2.archive.org:6969/announce
 
 http://ch3oh.ru:6969/announce
@@ -32,13 +30,13 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
+http://share.hkg-fansub.info/announce.php
+
 http://t.overflow.biz:6969/announce
 
 http://tr.nyacat.pw/announce
 
 http://tracker.auctor.tv:6969/announce
-
-http://tracker.bt-hash.com/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -62,8 +60,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
-http://tracker.xn--djrq4gl4hvoi.top/announce
-
 http://tracker.zhuqiy.com/announce
 
 http://tracker2.dler.org/announce
@@ -75,8 +71,6 @@ https://1337.abcvg.info/announce
 https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
-
-https://pybittrack.retiolus.net/announce
 
 https://t.213891.xyz/announce
 
@@ -110,6 +104,8 @@ https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
 
+https://tracker.yemekyedim.com/announce
+
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
@@ -124,15 +120,17 @@ udp://51.15.41.46:6969/announce
 
 udp://60.249.37.20:6969/announce
 
+udp://89.234.156.205:451/announce
+
 udp://admin.52ywp.com:6969/announce
 
 udp://archive.torrentonline.cc:42069/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://evan.im:6969/announce
+udp://edgev.duckdns.org:6969/announce
 
-udp://exodus.desync.com:6969/announce
+udp://evan.im:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -159,6 +157,8 @@ udp://open.stealth.si:80/announce
 udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -202,6 +202,8 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
+udp://tracker.gmi.gd:6969/announce
+
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -218,13 +220,13 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.wildkat.net:6969/announce
 
