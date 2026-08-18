@@ -22,23 +22,21 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
+http://ch3oh.ru:6969/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
-http://open.trackerlist.xyz/announce
-
-http://retracker.spark-rostov.ru/announce
-
-http://share.hkg-fansub.info/announce.php
-
 http://t.overflow.biz:6969/announce
 
 http://tr.nyacat.pw/announce
 
 http://tracker.auctor.tv:6969/announce
+
+http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -70,6 +68,10 @@ http://tracker.zhuqiy.com/announce
 
 http://tracker2.dler.org/announce
 
+http://tracker810.xyz:11450/announce
+
+http://www.genesis-sp.org:2710/announce
+
 https://004430.xyz/announce
 
 https://1337.abcvg.info/announce
@@ -77,8 +79,6 @@ https://1337.abcvg.info/announce
 https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
-
-https://pybittrack.retiolus.net/announce
 
 https://t.213891.xyz/announce
 
@@ -114,6 +114,8 @@ https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
 
+https://tracker.yemekyedim.com/announce
+
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
@@ -130,11 +132,11 @@ udp://60.249.37.20:6969/announce
 
 udp://89.234.156.205:451/announce
 
+udp://admin.52ywp.com:6969/announce
+
 udp://archive.torrentonline.cc:42069/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://edgev.duckdns.org:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -166,6 +168,8 @@ udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://seedpeer.net:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
@@ -188,6 +192,8 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -201,6 +207,10 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.farted.net:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
