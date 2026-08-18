@@ -4,8 +4,6 @@ http://1337.abcvg.info/announce
 
 http://207.241.226.111:6969/announce
 
-http://207.241.231.226:6969/announce
-
 http://211.75.205.188/announce
 
 http://211.75.205.189/announce
@@ -24,23 +22,23 @@ http://bt1.xxxxbt.cc:6969/announce
 
 http://bt2.archive.org:6969/announce
 
-http://ch3oh.ru:6969/announce
+http://home.yxgz.club:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
+http://ns3109441.mypdns.org:6969/announce
+
 http://seeders-paradise.org/announce
 
-http://share.hkg-fansub.info/announce.php
-
 http://t.overflow.biz:6969/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://tr.nyacat.pw/announce
 
 http://tracker.auctor.tv:6969/announce
+
+http://tracker.bt-hash.com/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -49,8 +47,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.lintk.me:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -114,11 +110,15 @@ https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
 
+https://tracker.yemekyedim.com/announce
+
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
 
 udp://185.171.202.111:6969/announce
+
+udp://193.34.92.5:80/announce
 
 udp://43.154.112.29:17272/announce
 
@@ -132,11 +132,7 @@ udp://admin.52ywp.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://edgev.duckdns.org:6969/announce
-
 udp://evan.im:6969/announce
-
-udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -163,8 +159,6 @@ udp://open.stealth.si:80/announce
 udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -205,6 +199,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.farted.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
