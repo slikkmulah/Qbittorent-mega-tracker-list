@@ -2,6 +2,8 @@ http://004430.xyz/announce
 
 http://1337.abcvg.info/announce
 
+http://207.241.226.111:6969/announce
+
 http://207.241.231.226:6969/announce
 
 http://211.75.205.188/announce
@@ -20,19 +22,23 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
+http://ch3oh.ru:6969/announce
+
 http://home.yxgz.club:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+http://jvavav.com/announce
+
 http://ns3109441.mypdns.org:6969/announce
+
+http://shubt.net:2710/announce
 
 http://t.overflow.biz:6969/announce
 
 http://tr.nyacat.pw/announce
 
 http://tracker.auctor.tv:6969/announce
-
-http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -41,8 +47,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.dmcomic.org:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -56,9 +60,9 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.waaa.moe:6969/announce
+http://tracker.sbsub.com:2710/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
+http://tracker.waaa.moe:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
 
@@ -73,8 +77,6 @@ https://1337.abcvg.info/announce
 https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
-
-https://pybittrack.retiolus.net/announce
 
 https://t.213891.xyz/announce
 
@@ -108,17 +110,15 @@ https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
 
-https://tracker.yemekyedim.com/announce
-
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
 
-udp://185.171.202.111:6969/announce
-
 udp://193.34.92.5:80/announce
 
 udp://43.154.112.29:17272/announce
+
+udp://51.15.41.46:6969/announce
 
 udp://60.249.37.20:6969/announce
 
@@ -145,6 +145,8 @@ udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://obey.torrentonline.cc:42069/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
@@ -208,11 +210,13 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
-udp://tracker.nyaa.vc:6969/announce
+udp://tracker.opentrackr.com:6969/announce
 
-udp://tracker.peerfect.org:6969/announce
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.playground.ru:6969/announce
+
+udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -227,6 +231,8 @@ udp://tracker.wildkat.net:6969/announce
 udp://tracker2.dler.org:80/announce
 
 udp://udp.tracker.linvk.com:6969/announce
+
+udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
