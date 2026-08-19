@@ -1,5 +1,7 @@
 http://004430.xyz/announce
 
+http://0123456789nonexistent.com/announce
+
 http://1337.abcvg.info/announce
 
 http://207.241.226.111:6969/announce
@@ -20,25 +22,29 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt.poletracker.org:2710/announce
+
 http://bt1.archive.org:6969/announce
+
+http://bt1.xxxxbt.cc:6969/announce
 
 http://bt2.archive.org:6969/announce
 
-http://buny.uk:6969/announce
-
 http://ch3oh.ru:6969/announce
-
-http://home.yxgz.club:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://jvavav.com/announce
-
 http://ns3109441.mypdns.org:6969/announce
+
+http://retracker.spark-rostov.ru/announce
+
+http://seeders-paradise.org/announce
 
 http://shubt.net:2710/announce
 
 http://t.overflow.biz:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://tr.nyacat.pw/announce
 
@@ -72,11 +78,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.waaa.moe:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
 
@@ -134,6 +136,8 @@ udp://185.171.202.111:6969/announce
 
 udp://193.34.92.5:80/announce
 
+udp://43.154.112.29:17272/announce
+
 udp://51.15.41.46:6969/announce
 
 udp://60.249.37.20:6969/announce
@@ -143,6 +147,8 @@ udp://89.234.156.205:451/announce
 udp://admin.52ywp.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://edgev.duckdns.org:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -161,8 +167,6 @@ udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://obey.torrentonline.cc:42069/announce
-
-udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
@@ -216,6 +220,8 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
@@ -225,6 +231,8 @@ udp://tracker.k.vu:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
+
+udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
