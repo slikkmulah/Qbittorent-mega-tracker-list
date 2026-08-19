@@ -24,15 +24,11 @@ http://bt.poletracker.org:2710/announce
 
 http://bt1.archive.org:6969/announce
 
-http://bt1.xxxxbt.cc:6969/announce
-
 http://bt2.archive.org:6969/announce
 
 http://buny.uk:6969/announce
 
 http://ch3oh.ru:6969/announce
-
-http://home.yxgz.club:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -40,11 +36,7 @@ http://jvavav.com/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
-http://open.trackerlist.xyz/announce
-
 http://retracker.spark-rostov.ru/announce
-
-http://seeders-paradise.org/announce
 
 http://shubt.net:2710/announce
 
@@ -60,8 +52,6 @@ http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz/announce
-
 http://tracker.corpscorp.online/announce
 
 http://tracker.dhitechnical.com:6969/announce
@@ -71,6 +61,8 @@ http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.dmcomic.org:2710/announce
+
+http://tracker.ipv6tracker.org/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -84,15 +76,15 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
 http://tracker.waaa.moe:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
-
-http://tracker.xn--djrq4gl4hvoi.top/announce
 
 http://tracker.zhuqiy.com/announce
 
 http://tracker2.dler.org/announce
+
+http://www.genesis-sp.org:2710/announce
 
 https://004430.xyz/announce
 
@@ -133,8 +125,6 @@ https://tracker.nekomi.cn/announce
 https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
-
-https://tracker.yemekyedim.com/announce
 
 https://tracker.zhuqiy.com/announce
 
@@ -228,6 +218,8 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
+udp://tracker.farted.net:6969/announce
+
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -235,8 +227,6 @@ udp://tracker.k.vu:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
-
-udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
@@ -252,7 +242,7 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
