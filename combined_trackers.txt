@@ -32,35 +32,31 @@ http://home.yxgz.club:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://jvavav.com/announce
-
 http://ns3109441.mypdns.org:6969/announce
 
 http://open.trackerlist.xyz/announce
 
 http://retracker.spark-rostov.ru/announce
 
+http://seeders-paradise.org/announce
+
 http://shubt.net:2710/announce
 
 http://t.overflow.biz:6969/announce
-
-http://torrent.hificode.in:6969/announce
 
 http://tr.nyacat.pw/announce
 
 http://tracker.auctor.tv:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.corpscorp.online/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.dmcomic.org:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -87,8 +83,6 @@ https://1337.abcvg.info/announce
 https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
-
-https://pybittrack.retiolus.net/announce
 
 https://t.213891.xyz/announce
 
@@ -124,6 +118,8 @@ https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
 
+https://tracker.yemekyedim.com/announce
+
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
@@ -142,7 +138,13 @@ udp://89.234.156.205:451/announce
 
 udp://admin.52ywp.com:6969/announce
 
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://edgev.duckdns.org:6969/announce
+
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -169,8 +171,6 @@ udp://open.stealth.si:80/announce
 udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -214,8 +214,6 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -247,8 +245,6 @@ udp://tracker.wildkat.net:6969/announce
 udp://tracker2.dler.org:80/announce
 
 udp://udp.tracker.linvk.com:6969/announce
-
-udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
