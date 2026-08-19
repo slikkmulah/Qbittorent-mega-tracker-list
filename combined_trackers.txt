@@ -18,13 +18,21 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt.poletracker.org:2710/announce
+
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
+http://buny.uk:6969/announce
+
+http://home.yxgz.club:6969/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
+
+http://retracker.spark-rostov.ru/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -33,6 +41,8 @@ http://tr.nyacat.pw/announce
 http://tracker.auctor.tv:6969/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.bz/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -110,11 +120,11 @@ udp://185.171.202.111:6969/announce
 
 udp://193.34.92.5:80/announce
 
+udp://43.154.112.29:17272/announce
+
 udp://51.15.41.46:6969/announce
 
 udp://60.249.37.20:6969/announce
-
-udp://89.234.156.205:451/announce
 
 udp://admin.52ywp.com:6969/announce
 
@@ -152,7 +162,7 @@ udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://seedpeer.net:6969/announce
+udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
@@ -194,10 +204,6 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
-udp://tracker.gmi.gd:6969/announce
-
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -205,8 +211,6 @@ udp://tracker.k.vu:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
-
-udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
