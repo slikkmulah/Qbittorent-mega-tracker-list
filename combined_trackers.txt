@@ -14,11 +14,11 @@ http://211.75.210.221/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 
-http://asiatorrent.giize.com:51413/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
+
+http://bt.poletracker.org:2710/announce
 
 http://bt1.archive.org:6969/announce
 
@@ -28,13 +28,13 @@ http://home.yxgz.club:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+http://ns3109441.mypdns.org:6969/announce
+
 http://t.overflow.biz:6969/announce
 
 http://tr.nyacat.pw/announce
 
 http://tracker.auctor.tv:6969/announce
-
-http://tracker.bt-hash.com/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -56,11 +56,7 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.sbsub.com:2710/announce
-
 http://tracker.waaa.moe:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
 
@@ -70,7 +66,11 @@ http://tracker2.dler.org/announce
 
 http://tracker810.xyz:11450/announce
 
+http://www.torrentsnipe.info:2701/announce
+
 https://004430.xyz/announce
+
+https://1337.abcvg.info/announce
 
 https://edgev.duckdns.org/announce
 
@@ -93,8 +93,6 @@ https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
 
 https://tracker.bug38.com/announce
-
-https://tracker.cangku.moe/announce
 
 https://tracker.foreverpirates.co/announce
 
@@ -134,6 +132,8 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
 
+udp://edgev.duckdns.org:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -151,8 +151,6 @@ udp://martin-gebhardt.eu:25/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://obey.torrentonline.cc:42069/announce
-
-udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
@@ -206,6 +204,8 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
+udp://tracker.gmi.gd:6969/announce
+
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -214,6 +214,8 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
+udp://tracker.nyaa.vc:6969/announce
+
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -221,8 +223,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
-
-udp://tracker.plx.im:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
