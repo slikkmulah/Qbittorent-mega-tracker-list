@@ -22,6 +22,8 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
+http://ch3oh.ru:6969/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
@@ -68,9 +70,13 @@ https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
 
+https://pybittrack.retiolus.net/announce
+
 https://t.213891.xyz/announce
 
 https://tr.nyacat.pw/announce
+
+https://tr.zukizuki.org/announce
 
 https://tracker.7471.top/announce
 
@@ -98,8 +104,6 @@ https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
 
-https://tracker.yemekyedim.com/announce
-
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
@@ -116,8 +120,6 @@ udp://60.249.37.20:6969/announce
 
 udp://89.234.156.205:451/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
@@ -125,6 +127,8 @@ udp://coeus.torrentonline.cc:42069/announce
 udp://edgev.duckdns.org:6969/announce
 
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -212,11 +216,13 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
