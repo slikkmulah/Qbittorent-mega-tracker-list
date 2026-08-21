@@ -36,8 +36,6 @@ http://tracker.auctor.tv:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.bz/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -64,7 +62,7 @@ http://tracker.zhuqiy.com/announce
 
 http://tracker2.dler.org/announce
 
-http://tracker810.xyz:11450/announce
+http://www.genesis-sp.org:2710/announce
 
 https://004430.xyz/announce
 
@@ -74,9 +72,13 @@ https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
 
+https://pybittrack.retiolus.net/announce
+
 https://t.213891.xyz/announce
 
 https://tr.nyacat.pw/announce
+
+https://tr.zukizuki.org/announce
 
 https://tracker.7471.top/announce
 
@@ -119,8 +121,6 @@ udp://51.15.41.46:6969/announce
 udp://60.249.37.20:6969/announce
 
 udp://89.234.156.205:451/announce
-
-udp://admin.52ywp.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -210,8 +210,6 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
-udp://tracker.nyaa.vc:6969/announce
-
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -219,6 +217,8 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
+
+udp://tracker.plx.im:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
