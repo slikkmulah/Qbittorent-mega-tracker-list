@@ -84,8 +84,6 @@ https://tracker.bug38.com/announce
 
 https://tracker.foreverpirates.co/announce
 
-https://tracker.isbigdick.cc.cd/announce
-
 https://tracker.leechshield.link/announce
 
 https://tracker.lenition.de/announce
@@ -98,11 +96,13 @@ https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
 
+https://tracker.yemekyedim.com/announce
+
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
 
-udp://193.34.92.5:80/announce
+udp://185.171.202.111:6969/announce
 
 udp://43.154.112.29:17272/announce
 
@@ -117,6 +117,8 @@ udp://admin.52ywp.com:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
+
+udp://edgev.duckdns.org:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -209,6 +211,10 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
