@@ -32,13 +32,13 @@ http://tracker.auctor.tv:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.bz/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.lintk.me:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -67,6 +67,8 @@ https://1337.abcvg.info/announce
 https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
+
+https://pybittrack.retiolus.net/announce
 
 https://t.213891.xyz/announce
 
@@ -98,25 +100,23 @@ https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
 
+https://tracker.yemekyedim.com/announce
+
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
 
 udp://185.171.202.111:6969/announce
 
-udp://193.34.92.5:80/announce
-
 udp://43.154.112.29:17272/announce
-
-udp://51.15.41.46:6969/announce
 
 udp://60.249.37.20:6969/announce
 
 udp://89.234.156.205:451/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://admin.52ywp.com:6969/announce
 
-udp://coeus.torrentonline.cc:42069/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://evan.im:6969/announce
 
@@ -172,9 +172,13 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
+
+udp://tracker.cynma.tv:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -185,6 +189,8 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
@@ -201,8 +207,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
-
-udp://tracker.plx.im:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
