@@ -60,8 +60,6 @@ http://tracker.zhuqiy.com/announce
 
 http://tracker2.dler.org/announce
 
-http://www.genesis-sp.org:2710/announce
-
 https://004430.xyz/announce
 
 https://1337.abcvg.info/announce
@@ -81,6 +79,8 @@ https://tracker.7471.top/announce
 https://tracker.adgk.net/announce
 
 https://tracker.anibt.net/announce
+
+https://tracker.bt4g.com/announce
 
 https://tracker.bug38.com/announce
 
@@ -102,8 +102,6 @@ https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
 
-https://tracker.yemekyedim.com/announce
-
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
@@ -122,13 +120,13 @@ udp://89.234.156.205:451/announce
 
 udp://admin.52ywp.com:6969/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 udp://coeus.torrentonline.cc:42069/announce
 
 udp://edgev.duckdns.org:6969/announce
 
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -200,10 +198,6 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
-udp://tracker.gmi.gd:6969/announce
-
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -220,11 +214,15 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
