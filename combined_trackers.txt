@@ -32,8 +32,6 @@ http://tr.nyacat.pw/announce
 
 http://tracker.auctor.tv:6969/announce
 
-http://tracker.bt4g.com:2095/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -80,8 +78,6 @@ https://tracker.adgk.net/announce
 
 https://tracker.anibt.net/announce
 
-https://tracker.bt4g.com/announce
-
 https://tracker.bug38.com/announce
 
 https://tracker.cangku.moe/announce
@@ -126,9 +122,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
 
-udp://evan.im:6969/announce
+udp://edgev.duckdns.org:6969/announce
 
-udp://exodus.desync.com:6969/announce
+udp://evan.im:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -196,7 +192,7 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
@@ -221,8 +217,6 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
