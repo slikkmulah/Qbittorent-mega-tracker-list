@@ -96,6 +96,8 @@ https://tracker.lenition.de/announce
 
 https://tracker.linvk.com/announce
 
+https://tracker.maya.no.eu.org/announce
+
 https://tracker.nekomi.cn/announce
 
 https://tracker.pmman.tech/announce
@@ -212,6 +214,8 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
+udp://tracker.nyaa.vc:6969/announce
+
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -225,6 +229,8 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
