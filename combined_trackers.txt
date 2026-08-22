@@ -30,7 +30,7 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://t.overflow.biz:6969/announce
 
-http://tr.nyacat.pw/announce
+http://tracker.23794.top:6969/announce
 
 http://tracker.auctor.tv:6969/announce
 
@@ -75,6 +75,8 @@ https://open.ftorrent.com/announce
 https://t.213891.xyz/announce
 
 https://tr.nyacat.pw/announce
+
+https://tr.zukizuki.org/announce
 
 https://tracker.7471.top/announce
 
@@ -124,6 +126,8 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
 
+udp://edgev.duckdns.org:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://explodie.org:6969/announce
@@ -151,8 +155,6 @@ udp://open.stealth.si:80/announce
 udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -194,6 +196,12 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.fnix.net:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
+
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -209,8 +217,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
-
-udp://tracker.plx.im:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
