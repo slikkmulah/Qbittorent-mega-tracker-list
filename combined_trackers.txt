@@ -22,8 +22,6 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
-http://ch3oh.ru:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://t.overflow.biz:6969/announce
@@ -59,6 +57,8 @@ http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 
 http://tracker2.dler.org/announce
+
+http://wegkxfcivgx.ydns.eu/announce
 
 https://004430.xyz/announce
 
@@ -101,8 +101,6 @@ https://tracker.nekomi.cn/announce
 https://tracker.pmman.tech/announce
 
 https://tracker.qingwapt.org/announce
-
-https://tracker.yemekyedim.com/announce
 
 https://tracker.zhuqiy.com/announce
 
@@ -166,8 +164,6 @@ udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
 
-udp://tr.btube3.com:2010/announce
-
 udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -200,10 +196,6 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
@@ -214,8 +206,6 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
-udp://tracker.nyaa.vc:6969/announce
-
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -224,13 +214,13 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
