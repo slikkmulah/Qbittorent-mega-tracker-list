@@ -24,8 +24,6 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
-http://ch3oh.ru:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://t.overflow.biz:6969/announce
@@ -69,8 +67,6 @@ https://1337.abcvg.info/announce
 https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
-
-https://pybittrack.retiolus.net/announce
 
 https://t.213891.xyz/announce
 
@@ -122,13 +118,11 @@ udp://89.234.156.205:451/announce
 
 udp://admin.52ywp.com:6969/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 udp://coeus.torrentonline.cc:42069/announce
 
-udp://edgev.duckdns.org:6969/announce
-
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -223,6 +217,8 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
