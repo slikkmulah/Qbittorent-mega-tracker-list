@@ -30,8 +30,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://t.overflow.biz:6969/announce
 
-http://tracker.23794.top:6969/announce
-
 http://tracker.auctor.tv:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -71,6 +69,8 @@ https://1337.abcvg.info/announce
 https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
+
+https://pybittrack.retiolus.net/announce
 
 https://t.213891.xyz/announce
 
@@ -156,6 +156,8 @@ udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://seedpeer.net:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
@@ -198,10 +200,6 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
-udp://tracker.gmi.gd:6969/announce
-
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -209,6 +207,8 @@ udp://tracker.k.vu:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
+
+udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
