@@ -68,8 +68,6 @@ https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
 
-https://pybittrack.retiolus.net/announce
-
 https://t.213891.xyz/announce
 
 https://tr.nyacat.pw/announce
@@ -105,8 +103,6 @@ https://tracker.qingwapt.org/announce
 https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
-
-udp://185.171.202.111:6969/announce
 
 udp://193.34.92.5:80/announce
 
@@ -144,8 +140,6 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://obey.torrentonline.cc:42069/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://open.demonoid.ch:6969/announce
 
 udp://open.ftorrent.com:443/announce
@@ -160,13 +154,9 @@ udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://torrent.tracker.durukanbal.com:6969/announce
-
 udp://torrentclub.online:1984/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -195,6 +185,8 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
