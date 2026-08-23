@@ -64,8 +64,6 @@ https://004430.xyz/announce
 
 https://1337.abcvg.info/announce
 
-https://edgev.duckdns.org/announce
-
 https://open.ftorrent.com/announce
 
 https://pybittrack.retiolus.net/announce
@@ -73,6 +71,8 @@ https://pybittrack.retiolus.net/announce
 https://t.213891.xyz/announce
 
 https://tr.nyacat.pw/announce
+
+https://tr.zukizuki.org/announce
 
 https://tracker.7471.top/announce
 
@@ -126,7 +126,7 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969/announce
+udp://ibksturm.synology.me:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
@@ -192,10 +192,6 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
-udp://tracker.gmi.gd:6969/announce
-
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -203,6 +199,8 @@ udp://tracker.k.vu:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
+
+udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
@@ -212,13 +210,13 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
