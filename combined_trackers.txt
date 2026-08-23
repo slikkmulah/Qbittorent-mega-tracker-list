@@ -66,9 +66,13 @@ https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
 
+https://pybittrack.retiolus.net/announce
+
 https://t.213891.xyz/announce
 
 https://tr.nyacat.pw/announce
+
+https://tr.zukizuki.org/announce
 
 https://tracker.7471.top/announce
 
@@ -112,7 +116,13 @@ udp://60.249.37.20:6969/announce
 
 udp://89.234.156.205:451/announce
 
+udp://admin.52ywp.com:6969/announce
+
+udp://coeus.torrentonline.cc:42069/announce
+
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -125,6 +135,8 @@ udp://mail.segso.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
+
+udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -160,8 +172,6 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -175,6 +185,8 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
@@ -192,13 +204,13 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -209,6 +221,8 @@ udp://tracker.wildkat.net:6969/announce
 udp://tracker2.dler.org:80/announce
 
 udp://udp.tracker.linvk.com:6969/announce
+
+udp://whybother.torrentonline.cc:42069/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
