@@ -88,6 +88,8 @@ https://tracker.bt4g.com/announce
 
 https://tracker.bug38.com/announce
 
+https://tracker.cangku.moe/announce
+
 https://tracker.foreverpirates.co/announce
 
 https://tracker.isbigdick.cc.cd/announce
@@ -108,8 +110,6 @@ https://tracker.zhuqiy.com/announce
 
 udp://132.226.6.145:6969/announce
 
-udp://185.171.202.111:6969/announce
-
 udp://193.34.92.5:80/announce
 
 udp://43.154.112.29:17272/announce
@@ -126,9 +126,9 @@ udp://coeus.torrentonline.cc:42069/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://explodie.org:6969/announce
+
+udp://ibksturm.synology.me:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
@@ -194,8 +194,6 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.govt.hu:6969/announce
@@ -208,6 +206,8 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
+udp://tracker.nyaa.vc:6969/announce
+
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -215,8 +215,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
-
-udp://tracker.plx.im:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
