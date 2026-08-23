@@ -14,8 +14,6 @@ http://211.75.210.221/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 
-http://asiatorrent.giize.com:51413/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -70,9 +68,13 @@ https://edgev.duckdns.org/announce
 
 https://open.ftorrent.com/announce
 
+https://pybittrack.retiolus.net/announce
+
 https://t.213891.xyz/announce
 
 https://tr.nyacat.pw/announce
+
+https://tr.zukizuki.org/announce
 
 https://tracker.7471.top/announce
 
@@ -93,6 +95,8 @@ https://tracker.leechshield.link/announce
 https://tracker.lenition.de/announce
 
 https://tracker.linvk.com/announce
+
+https://tracker.maya.no.eu.org/announce
 
 https://tracker.nekomi.cn/announce
 
@@ -122,11 +126,11 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://coeus.torrentonline.cc:42069/announce
 
+udp://edgev.duckdns.org:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
@@ -194,6 +198,8 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -201,6 +207,8 @@ udp://tracker.k.vu:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
+
+udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
