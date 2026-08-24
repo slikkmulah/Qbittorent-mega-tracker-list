@@ -58,7 +58,7 @@ jobs:
 
           mv working_trackers.txt combined_trackers.txt
 
-      - name: Commit and push updated tracker list
+            - name: Commit and push updated tracker list
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -71,4 +71,17 @@ jobs:
           fi
 
           git commit -m "Update trackers list"
+
+          # Get anything that changed on main while this job was running
+          git fetch origin main
+
+          # Replay our tracker update on top of the newest main
+          if ! git rebase origin/main; then
+            echo "combined_trackers.txt changed remotely. Keeping the newly generated tracker list."
+
+            git show REBASE_HEAD:combined_trackers.txt > combined_trackers.txt
+            git add combined_trackers.txt
+            GIT_EDITOR=true git rebase --continue
+          fi
+
           git push origin HEAD:main
