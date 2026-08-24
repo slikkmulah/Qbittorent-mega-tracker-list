@@ -22,8 +22,6 @@ http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
-http://ch3oh.ru:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://t.overflow.biz:6969/announce
@@ -65,6 +63,8 @@ https://004430.xyz/announce
 https://1337.abcvg.info/announce
 
 https://open.ftorrent.com/announce
+
+https://pybittrack.retiolus.net/announce
 
 https://t.213891.xyz/announce
 
@@ -118,6 +118,8 @@ udp://coeus.torrentonline.cc:42069/announce
 
 udp://evan.im:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
@@ -133,6 +135,8 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.demonoid.ch:6969/announce
 
 udp://open.ftorrent.com:443/announce
 
@@ -182,6 +186,10 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
+
 udp://tracker.govt.hu:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
@@ -191,6 +199,8 @@ udp://tracker.k.vu:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
+
+udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
@@ -206,9 +216,9 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
