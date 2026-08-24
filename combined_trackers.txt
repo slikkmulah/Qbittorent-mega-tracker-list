@@ -104,6 +104,8 @@ https://tracker.qingwapt.org/announce
 
 https://tracker.zhuqiy.com/announce
 
+udp://132.226.6.145:6969/announce
+
 udp://185.171.202.111:6969/announce
 
 udp://193.34.92.5:80/announce
@@ -150,6 +152,8 @@ udp://open.stealth.si:80/announce
 
 udp://rekcart.duckdns.org:15480/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
@@ -192,7 +196,7 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.fnix.net:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -222,9 +226,9 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tryhackx.org:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.wildkat.net:6969/announce
 
