@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/daily_update.yml"
 
 concurrency:
   group: daily-tracker-sync
