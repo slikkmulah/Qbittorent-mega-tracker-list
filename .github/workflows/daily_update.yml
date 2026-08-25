@@ -9,6 +9,10 @@ on:
       - main
     paths:
       - ".github/workflows/daily_update.yml"
+      - "update_trackers.py"
+      - "validate_trackers.py"
+      - "test_validate_trackers.py"
+      - "requirements.txt"
 
 concurrency:
   group: daily-tracker-sync
@@ -35,33 +39,35 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          fi
+      - name: Test strict tracker validator
+        run: python -m unittest -v test_validate_trackers.py
 
-      - name: Run tracking aggregation script
+      - name: Aggregate high-confidence tracker sources
         run: python update_trackers.py
 
-      - name: Check combined tracker list
+      - name: Strictly validate tracker announce responses
         run: |
-          if [ ! -f combined_trackers.txt ]; then
-            echo "Error: combined_trackers.txt was not created."
-            exit 1
-          fi
+          python validate_trackers.py \
+            combined_trackers.txt \
+            working_trackers.txt \
+            --rejected rejected_trackers.txt \
+            --timeout 10 \
+            --passes 2 \
+            --concurrency 32
 
-      - name: Test trackers with TrackerPing
+      - name: Replace combined list with validated trackers
         run: |
-          trackerping -l -o working_trackers.txt combined_trackers.txt
-
-      - name: Replace combined list with working trackers
-        run: |
-          if [ ! -f working_trackers.txt ]; then
-            echo "Error: TrackerPing did not create working_trackers.txt."
+          if [ ! -s working_trackers.txt ]; then
+            echo "Error: strict validation produced no working trackers."
             exit 1
           fi
 
           mv working_trackers.txt combined_trackers.txt
+
+          echo "Final tracker count:"
+          grep -cve '^$' combined_trackers.txt
 
       - name: Commit and push updated tracker list
         shell: bash
@@ -86,7 +92,7 @@ jobs:
               exit 0
             fi
 
-            git commit -m "Update trackers list"
+            git commit -m "Update strictly validated tracker list"
 
             if git push origin HEAD:main; then
               echo "Tracker list pushed successfully."
@@ -98,3 +104,4 @@ jobs:
 
           echo "Error: Could not push tracker list after 5 attempts."
           exit 1
+
