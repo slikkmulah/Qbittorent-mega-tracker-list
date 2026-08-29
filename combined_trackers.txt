@@ -48,6 +48,8 @@ https://tracker.zhuqiy.com:443/announce
 
 udp://132.226.6.145:6969/announce
 
+udp://185.171.202.111:6969/announce
+
 udp://193.34.92.5:80/announce
 
 udp://43.154.112.29:17272/announce
@@ -67,8 +69,6 @@ udp://mail.segso.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
-
-udp://open.demonii.com:1337/announce
 
 udp://open.ftorrent.com:443/announce
 
@@ -105,6 +105,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.farted.net:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
