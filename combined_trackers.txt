@@ -26,8 +26,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 https://004430.xyz:443/announce
 
 https://t.213891.xyz:443/announce
@@ -59,6 +57,8 @@ udp://51.15.41.46:6969/announce
 udp://60.249.37.20:6969/announce
 
 udp://89.234.156.205:451/announce
+
+udp://admin.52ywp.com:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -111,8 +111,6 @@ udp://tracker.farted.net:6969/announce
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
-
-udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
