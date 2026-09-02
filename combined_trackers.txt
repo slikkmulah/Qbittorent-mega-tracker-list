@@ -58,8 +58,6 @@ udp://60.249.37.20:6969/announce
 
 udp://89.234.156.205:451/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://evan.im:6969/announce
 
 udp://mail.segso.net:6969/announce
@@ -67,6 +65,8 @@ udp://mail.segso.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
+
+udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -92,6 +92,8 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -103,6 +105,8 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
@@ -131,5 +135,7 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.wildkat.net:6969/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://whybother.torrentonline.cc:42069/announce
 
 udp://zer0day.ch:1337/announce
