@@ -38,7 +38,7 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-udp://open.demonii.com:1337/announce
+udp://obey.torrentonline.cc:42069/announce
 
 udp://open.ftorrent.com:443/announce
 
@@ -64,6 +64,8 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -73,8 +75,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.farted.net:6969/announce
-
-udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.govt.hu:6969/announce
 
