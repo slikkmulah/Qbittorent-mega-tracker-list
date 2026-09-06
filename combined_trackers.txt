@@ -16,6 +16,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.auctor.tv:6969/announce
 
+http://tracker.dhitechnical.com:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
@@ -38,6 +40,8 @@ https://tracker.lenition.de:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
+https://tracker.onetracker.net:443/announce
+
 https://tracker.zhuqiy.com:443/announce
 
 udp://132.226.6.145:6969/announce
@@ -55,12 +59,6 @@ udp://60.249.37.20:6969/announce
 udp://89.234.156.205:451/announce
 
 udp://admin.52ywp.com:6969/announce
-
-udp://evan.im:6969/announce
-
-udp://explodie.org:6969/announce
-
-udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://mail.segso.net:6969/announce
 
@@ -106,11 +104,15 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.govt.hu:6969/announce
 
+udp://tracker.ilibr.org:6969/announce
+
 udp://tracker.k.vu:6969/announce
 
 udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
+
+udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
