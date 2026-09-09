@@ -62,8 +62,6 @@ udp://admin.52ywp.com:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -87,8 +85,6 @@ udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
