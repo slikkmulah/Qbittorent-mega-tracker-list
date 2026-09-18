@@ -60,8 +60,6 @@ udp://193.148.251.93:6969/announce
 
 udp://193.34.92.5:80/announce
 
-udp://23.134.88.9:6969/announce
-
 udp://31.38.161.123:6969/announce
 
 udp://43.154.112.29:17272/announce
@@ -73,8 +71,6 @@ udp://51.81.222.188:6969/announce
 udp://60.249.37.20:6969/announce
 
 udp://89.234.156.205:451/announce
-
-udp://admin.52ywp.com:6969/announce
 
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
@@ -129,8 +125,6 @@ udp://tracker.govt.hu:6969/announce
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
-
-udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
