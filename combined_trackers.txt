@@ -78,8 +78,6 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://evan.im:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
