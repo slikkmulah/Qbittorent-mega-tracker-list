@@ -28,8 +28,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
 https://004430.xyz:443/announce
@@ -48,37 +46,19 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
-udp://132.226.6.145:6969/announce
-
-udp://193.148.251.93:6969/announce
-
-udp://193.34.92.5:80/announce
-
 udp://23.134.88.9:6969/announce
 
 udp://31.38.161.123:6969/announce
-
-udp://51.15.41.46:6969/announce
 
 udp://51.81.222.188:6969/announce
 
 udp://60.249.37.20:6969/announce
 
-udp://89.234.156.205:451/announce
-
-udp://admin.52ywp.com:6969/announce
-
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
-udp://explodie.org:6969/announce
-
 udp://mail.segso.net:6969/announce
-
-udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
