@@ -62,8 +62,6 @@ udp://23.134.88.9:6969/announce
 
 udp://31.38.161.123:6969/announce
 
-udp://43.154.112.29:17272/announce
-
 udp://51.15.41.46:6969/announce
 
 udp://51.81.222.188:6969/announce
@@ -72,13 +70,9 @@ udp://60.249.37.20:6969/announce
 
 udp://89.234.156.205:451/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://evan.im:6969/announce
-
-udp://exodus.desync.com:6969/announce
 
 udp://mail.segso.net:6969/announce
 
