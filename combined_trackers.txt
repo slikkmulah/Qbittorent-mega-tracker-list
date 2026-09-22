@@ -22,9 +22,9 @@ http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
+http://tracker.dler.org:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -88,8 +88,6 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
@@ -124,6 +122,8 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
+udp://tracker.gmi.gd:6969/announce
+
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.k.vu:6969/announce
@@ -134,11 +134,15 @@ udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
+udp://tracker.opentrackr.org:1337/announce
+
 udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
 
