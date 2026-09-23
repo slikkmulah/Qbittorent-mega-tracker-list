@@ -50,21 +50,15 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
-udp://132.226.6.145:6969/announce
-
 udp://193.148.251.93:6969/announce
 
 udp://193.34.92.5:80/announce
 
 udp://23.134.88.9:6969/announce
 
-udp://31.38.161.123:6969/announce
-
 udp://43.154.112.29:17272/announce
 
 udp://51.15.41.46:6969/announce
-
-udp://51.81.222.188:6969/announce
 
 udp://60.249.37.20:6969/announce
 
@@ -75,6 +69,10 @@ udp://admin.52ywp.com:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://evan.im:6969/announce
+
+udp://explodie.org:6969/announce
+
+udp://kolanopentracker.airdns.org:3392/announce
 
 udp://mail.segso.net:6969/announce
 
@@ -104,8 +102,6 @@ udp://tracker.aruku.ovh:8081/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -117,8 +113,6 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
-
-udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
@@ -137,5 +131,7 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker2.dler.org:80/announce
