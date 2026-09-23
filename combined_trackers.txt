@@ -80,13 +80,15 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://evan.im:6969/announce
 
-udp://kolanopentracker.airdns.org:3392/announce
+udp://explodie.org:6969/announce
 
 udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://open.ftorrent.com:443/announce
 
@@ -130,8 +132,6 @@ udp://tracker.k.vu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
-udp://tracker.nyaa.vc:6969/announce
-
 udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -143,7 +143,5 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrents.observer:80/announce
 
 udp://tracker2.dler.org:80/announce
