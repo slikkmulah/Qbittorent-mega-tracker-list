@@ -50,7 +50,7 @@ https://tracker.zhuqiy.com:443/announce
 
 udp://132.226.6.145:6969/announce
 
-udp://193.34.92.5:80/announce
+udp://193.148.251.93:6969/announce
 
 udp://31.38.161.123:6969/announce
 
@@ -58,13 +58,7 @@ udp://43.154.112.29:17272/announce
 
 udp://51.15.41.46:6969/announce
 
-udp://51.81.222.188:6969/announce
-
-udp://60.249.37.20:6969/announce
-
 udp://89.234.156.205:451/announce
-
-udp://admin.52ywp.com:6969/announce
 
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
@@ -72,13 +66,9 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://evan.im:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://open.demonii.com:1337/announce
 
 udp://open.ftorrent.com:443/announce
 
@@ -103,8 +93,6 @@ udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
