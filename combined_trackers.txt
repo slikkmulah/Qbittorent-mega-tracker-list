@@ -18,6 +18,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.auctor.tv:6969/announce
 
+http://tracker.dhitechnical.com:6969/announce
+
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
@@ -66,13 +68,9 @@ udp://60.249.37.20:6969/announce
 
 udp://89.234.156.205:451/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://evan.im:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
