@@ -4,8 +4,6 @@ http://207.241.231.226:6969/announce
 
 http://211.75.205.188:80/announce
 
-http://211.75.205.189:80/announce
-
 http://211.75.210.221:80/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -21,8 +19,6 @@ http://tracker.auctor.tv:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -62,8 +58,6 @@ udp://51.15.41.46:6969/announce
 
 udp://51.81.222.188:6969/announce
 
-udp://60.249.37.20:6969/announce
-
 udp://89.234.156.205:451/announce
 
 udp://admin.52ywp.com:6969/announce
@@ -72,15 +66,9 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://explodie.org:6969/announce
 
-udp://kolankoalastree.newtrackon.co.nz:1337/announce
-
 udp://mail.segso.net:6969/announce
-
-udp://martin-gebhardt.eu:25/announce
 
 udp://open.demonii.com:1337/announce
 
