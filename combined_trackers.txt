@@ -18,6 +18,8 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.auctor.tv:6969/announce
 
+http://tracker.dhitechnical.com:6969/announce
+
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
@@ -29,6 +31,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 https://004430.xyz:443/announce
 
@@ -46,6 +50,8 @@ https://tracker.zhuqiy.com:443/announce
 
 udp://132.226.6.145:6969/announce
 
+udp://193.148.251.93:6969/announce
+
 udp://193.34.92.5:80/announce
 
 udp://31.38.161.123:6969/announce
@@ -60,11 +66,15 @@ udp://60.249.37.20:6969/announce
 
 udp://89.234.156.205:451/announce
 
+udp://admin.52ywp.com:6969/announce
+
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
@@ -100,6 +110,8 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
@@ -129,8 +141,6 @@ udp://tracker.teambelgium.net:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
