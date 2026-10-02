@@ -30,8 +30,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 https://004430.xyz:443/announce
 
 https://1.tracker.eu.org:443/announce
@@ -50,6 +48,8 @@ https://tracker.zhuqiy.com:443/announce
 
 udp://132.226.6.145:6969/announce
 
+udp://193.148.251.93:6969/announce
+
 udp://193.34.92.5:80/announce
 
 udp://31.38.161.123:6969/announce
@@ -61,8 +61,6 @@ udp://51.15.41.46:6969/announce
 udp://51.81.222.188:6969/announce
 
 udp://89.234.156.205:451/announce
-
-udp://admin.52ywp.com:6969/announce
 
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
@@ -125,6 +123,8 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
 
