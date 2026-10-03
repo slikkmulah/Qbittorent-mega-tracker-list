@@ -20,8 +20,6 @@ http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
@@ -109,8 +107,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
-
-udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
