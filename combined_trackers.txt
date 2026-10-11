@@ -24,8 +24,6 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -62,7 +60,11 @@ udp://51.81.222.188:6969/announce
 
 udp://89.234.156.205:451/announce
 
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 udp://evan.im:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
@@ -81,8 +83,6 @@ udp://open.stealth.si:80/announce
 udp://opentracker.lain.moscow:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
@@ -121,8 +121,6 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
 
