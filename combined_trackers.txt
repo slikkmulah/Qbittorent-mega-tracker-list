@@ -44,6 +44,8 @@ https://tracker.nekomi.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
 
+https://tracker.zhuqiy.com:443/announce
+
 udp://132.226.6.145:6969/announce
 
 udp://193.148.251.93:6969/announce
@@ -55,8 +57,6 @@ udp://31.38.161.123:6969/announce
 udp://43.154.112.29:17272/announce
 
 udp://51.15.41.46:6969/announce
-
-udp://51.81.222.188:6969/announce
 
 udp://89.234.156.205:451/announce
 
@@ -84,8 +84,6 @@ udp://opentracker.lain.moscow:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://torrent.tracker.durukanbal.com:6969/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -99,8 +97,6 @@ udp://tracker.cn.nyaa.net:6969/announce
 udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
