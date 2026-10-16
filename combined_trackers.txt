@@ -22,8 +22,6 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -108,8 +106,6 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
@@ -133,5 +129,3 @@ udp://tracker.wildkat.net:6969/announce
 udp://tracker.willy.pro:6969/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://v2.iperson.xyz:6969/announce
