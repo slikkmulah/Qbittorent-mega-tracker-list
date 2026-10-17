@@ -114,6 +114,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
+udp://tracker.nyaa.net:6969/announce
+
 udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
