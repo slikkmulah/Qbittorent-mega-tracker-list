@@ -68,6 +68,8 @@ udp://bt-tracker.de:6969/announce
 
 udp://evan.im:6969/announce
 
+udp://explodie.org:6969/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
@@ -121,6 +123,8 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.wildkat.net:6969/announce
 
