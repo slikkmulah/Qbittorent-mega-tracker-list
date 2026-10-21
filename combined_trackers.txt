@@ -80,6 +80,8 @@ udp://mail.segso.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://open.demonii.com:1337/announce
+
 udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
