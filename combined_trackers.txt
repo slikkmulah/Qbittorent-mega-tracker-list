@@ -66,8 +66,6 @@ udp://bt-tracker.de:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
@@ -88,11 +86,11 @@ udp://opentracker.lain.moscow:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://torrent.tracker.durukanbal.com:6969/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker.aruku.ovh:8081/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -105,8 +103,6 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
-
-udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
