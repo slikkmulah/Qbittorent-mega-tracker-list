@@ -70,8 +70,6 @@ udp://bt-tracker.de:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
