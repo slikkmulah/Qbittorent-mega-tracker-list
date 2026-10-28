@@ -5,13 +5,16 @@ from urllib.parse import urlsplit
 import requests
 
 
-# These feeds publish their highest-confidence public trackers. Broad "all"
-# feeds are intentionally excluded because they include down, private, and
-# unverified entries that can still answer a shallow connectivity test.
+# Combine curated feeds with the requested broader tracker feed. All candidates
+# must pass the strict announce validator before the final list is published.
 SOURCES = {
     "ngosang best": (
         "https://raw.githubusercontent.com/ngosang/trackerslist/refs/heads/master/"
         "trackers_best.txt"
+    ),
+    "lighting9999 all": (
+        "https://raw.githubusercontent.com/lighting9999/tracker-project/"
+        "refs/heads/master/trackers_all.txt"
     ),
     "newTrackon stable": "https://newtrackon.com/api/stable",
     "Trackers.Run stable": "https://trackers.run/s/wp_up_hp_hs_v4_v6.txt",
