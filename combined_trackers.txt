@@ -60,8 +60,6 @@ http://opentracker.xyz/announce
 
 http://opentrackr.org:1337/announce
 
-http://retracker.telecom.by/announce
-
 http://retracker01-msk-virt.corbina.net/announce
 
 http://sukebei.tracker.wf:8888/announce
@@ -71,8 +69,6 @@ http://t-backup.213891.xyz/announce
 http://t.nyaatracker.com/announce
 
 http://t.overflow.biz:6969/announce
-
-http://torrent.arjlover.net:2710/announce
 
 http://torrent.fedoraproject.org:6969/announce
 
@@ -130,6 +126,8 @@ http://tracker2.dler.com/announce
 
 http://tracker2.dler.org/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.dler.org:2710/announce
@@ -184,8 +182,6 @@ https://tracker.pmman.tech/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://tracker.puvvadi.net/announce
-
 https://tracker.zhuqiy.com/announce
 
 https://tracker.zhuqiy.com:443/announce
@@ -200,13 +196,13 @@ udp://120.78.150.131:6969/announce
 
 udp://132.226.6.145:6969/announce
 
+udp://135.125.236.64:6969/announce
+
 udp://149.106.106.25:443/announce
 
 udp://15.235.207.99:8081/announce
 
 udp://151.242.104.187:80/announce
-
-udp://159.146.99.45:6969/announce
 
 udp://164.152.110.70:6969/announce
 
@@ -266,8 +262,6 @@ udp://51.222.82.36:6969/announce
 
 udp://51.81.222.188:6969/announce
 
-udp://52.58.128.163:6969/announce
-
 udp://60.172.236.18:6969/announce
 
 udp://65.109.28.17:6969/announce
@@ -308,6 +302,8 @@ udp://ch3oh.ru:6969/announce
 
 udp://chihaya.toss.li:9696/announce
 
+udp://coeus.torrentonline.cc:42069/announce
+
 udp://craiovatracker.com:80/announce
 
 udp://evan.im:6969/announce
@@ -331,6 +327,8 @@ udp://mail.segso.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
+
+udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -361,6 +359,8 @@ udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
+
+udp://torrents.artixlinux.org:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -401,6 +401,8 @@ udp://tracker.farted.net:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
 
 udp://tracker.fatkhoala.org:13790/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -450,13 +452,11 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.tallpenguin.org:15750/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.torrents.observer:80/announce
 
-udp://tracker.tryhackx.org:6969/announce
-
 udp://tracker.wildkat.net:6969/announce
+
+udp://tracker.willy.pro:6969/announce
 
 udp://tracker2.dler.com:80/announce
 
