@@ -68,6 +68,8 @@ http://t.nyaatracker.com/announce
 
 http://t.overflow.biz:6969/announce
 
+http://torrent.arjlover.net:2710/announce
+
 http://torrent.fedoraproject.org:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu/announce
@@ -140,6 +142,8 @@ https://1.tracker.eu.org/announce
 
 https://1.tracker.eu.org:443/announce
 
+https://1337.abcvg.info/announce
+
 https://2.tracker.eu.org/announce
 
 https://3.tracker.eu.org/announce
@@ -180,6 +184,8 @@ https://tracker.pmman.tech/announce
 
 https://tracker.pmman.tech:443/announce
 
+https://tracker.yume-hatsuyuki.moe:443/announce
+
 https://tracker.zhuqiy.com/announce
 
 https://tracker.zhuqiy.com:443/announce
@@ -187,6 +193,8 @@ https://tracker.zhuqiy.com:443/announce
 udp://107.189.2.131:1337/announce
 
 udp://109.201.134.183:80/announce
+
+udp://118.196.100.63:6969/announce
 
 udp://120.78.150.131:6969/announce
 
@@ -202,6 +210,8 @@ udp://164.152.110.70:6969/announce
 
 udp://173.201.36.219:6969/announce
 
+udp://180.131.145.175:6969/announce
+
 udp://185.121.168.96:1337/announce
 
 udp://185.216.179.62:25/announce
@@ -213,8 +223,6 @@ udp://193.148.251.93:6969/announce
 udp://193.187.90.12:6969/announce
 
 udp://193.34.92.5:80/announce
-
-udp://209.141.59.16:6969/announce
 
 udp://209.141.59.25:6969/announce
 
@@ -270,8 +278,6 @@ udp://89.234.156.205:451/announce
 
 udp://91.211.5.21:6969/announce
 
-udp://91.216.110.53:451/announce
-
 udp://93.158.213.92:1337/announce
 
 udp://93.158.213.92:6969/announce
@@ -301,8 +307,6 @@ udp://coeus.torrentonline.cc:42069/announce
 udp://craiovatracker.com:80/announce
 
 udp://evan.im:6969/announce
-
-udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -350,19 +354,15 @@ udp://sandrotracker.biz:1337/announce
 
 udp://santost12.xyz:6969/announce
 
-udp://secure.pow7.com:6969/announce
-
 udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://t1.pow7.com:6969/announce
-
-udp://t2.pow7.com:6969/announce
-
 udp://torrent.tracker.durukanbal.com:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -371,6 +371,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.004430.xyz:1337/announce
 
 udp://tracker.aruku.ovh:8081/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -386,6 +388,8 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
+udp://tracker.dhitechnical.com:6969/announce
+
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -399,6 +403,8 @@ udp://tracker.farted.net:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
 
 udp://tracker.fatkhoala.org:13790/announce
+
+udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -448,13 +454,9 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.tallpenguin.org:15750/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
