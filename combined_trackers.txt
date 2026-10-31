@@ -20,9 +20,13 @@ http://211.75.205.188/announce
 
 http://211.75.205.188:6969/announce
 
+http://211.75.205.188:80/announce
+
 http://211.75.210.221/announce
 
 http://211.75.210.221:6969/announce
+
+http://211.75.210.221:80/announce
 
 http://216.144.239.90:6969/announce
 
@@ -32,8 +36,6 @@ http://43.250.54.126:6969/announce
 
 http://93.158.213.92:1337/announce
 
-http://asiatorrent.giize.com:51413/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bittorrent.kali.org/announce
@@ -41,6 +43,8 @@ http://bittorrent.kali.org/announce
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
+
+http://ch3oh.ru:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
@@ -61,6 +65,8 @@ http://t-backup.213891.xyz/announce
 http://t.nyaatracker.com/announce
 
 http://t.overflow.biz:6969/announce
+
+http://torrent.arjlover.net:2710/announce
 
 http://torrent.fedoraproject.org:6969/announce
 
@@ -107,8 +113,6 @@ http://tracker.renfei.net:8080/announce
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top/announce
-
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com/announce
 
@@ -176,9 +180,13 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.zhuqiy.com/announce
 
+https://tracker.zhuqiy.com:443/announce
+
 udp://107.189.2.131:1337/announce
 
 udp://109.201.134.183:80/announce
+
+udp://118.196.100.63:6969/announce
 
 udp://120.78.150.131:6969/announce
 
@@ -203,6 +211,10 @@ udp://193.148.251.93:6969/announce
 udp://193.187.90.12:6969/announce
 
 udp://193.34.92.5:80/announce
+
+udp://208.83.20.20:6969/announce
+
+udp://209.141.59.16:6969/announce
 
 udp://209.141.59.25:6969/announce
 
@@ -242,10 +254,6 @@ udp://51.222.82.36:6969/announce
 
 udp://51.81.222.188:6969/announce
 
-udp://52.58.128.163:6969/announce
-
-udp://60.172.236.18:6969/announce
-
 udp://65.109.28.17:6969/announce
 
 udp://65.109.28.33:6969/announce
@@ -256,7 +264,7 @@ udp://83.102.180.21:80/announce
 
 udp://89.234.156.205:451/announce
 
-udp://91.216.110.53:451/announce
+udp://91.211.5.21:6969/announce
 
 udp://93.158.213.92:1337/announce
 
@@ -268,11 +276,9 @@ udp://95.217.80.20:6969/announce
 
 udp://95.217.80.22:6969/announce
 
-udp://admin.52ywp.com:6969/announce
-
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
-udp://archive.torrentonline.cc:42069/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bt-tracker.de:6969/announce
 
@@ -288,9 +294,9 @@ udp://coeus.torrentonline.cc:42069/announce
 
 udp://craiovatracker.com:80/announce
 
-udp://evan.im:6969/announce
+udp://edgev.duckdns.org:6969/announce
 
-udp://explodie.org:6969/announce
+udp://evan.im:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
@@ -318,6 +324,8 @@ udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://opentracker.lain.moscow:6969/announce
 
 udp://opentrackr.org:1337/announce
@@ -341,6 +349,8 @@ udp://t.overflow.biz:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -373,6 +383,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.evergarden.uk:1914/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -428,9 +440,15 @@ udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.tallpenguin.org:15750/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://tracker.torrents.observer:80/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
 udp://tracker.wildkat.net:6969/announce
+
+udp://tracker.willy.pro:6969/announce
 
 udp://tracker2.dler.com:80/announce
 
@@ -441,9 +459,5 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker4.infohash.org:80/announce
 
 udp://v2.iperson.xyz:6969/announce
-
-udp://whybother.torrentonline.cc:42069/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://zer0day.ch:1337/announce
