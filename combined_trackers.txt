@@ -34,8 +34,6 @@ http://31.38.161.123:6969/announce
 
 http://43.250.54.126:6969/announce
 
-http://79.111.12.213:6969/announce
-
 http://93.158.213.92:1337/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -85,8 +83,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -194,6 +190,8 @@ udp://164.152.110.70:6969/announce
 
 udp://173.201.36.219:6969/announce
 
+udp://180.131.145.175:6969/announce
+
 udp://185.121.168.96:1337/announce
 
 udp://185.216.179.62:25/announce
@@ -220,8 +218,6 @@ udp://211.75.210.221:80/announce
 
 udp://212.42.38.197:6969/announce
 
-udp://221.153.216.56:8081/announce
-
 udp://23.157.120.14:6969/announce
 
 udp://31.38.161.123:6969/announce
@@ -244,7 +240,7 @@ udp://51.81.222.188:6969/announce
 
 udp://60.172.236.18:6969/announce
 
-udp://65.109.28.33:6969/announce
+udp://65.109.28.17:6969/announce
 
 udp://74.119.149.136:6969/announce
 
@@ -264,7 +260,9 @@ udp://94.23.207.177:6969/announce
 
 udp://95.217.80.20:6969/announce
 
-udp://95.217.80.22:6969/announce
+udp://admin.52ywp.com:6969/announce
+
+udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://axell24.ru:6969/announce
 
@@ -312,11 +310,11 @@ udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
 
-udp://opentracker.lain.moscow:6969/announce
+udp://open.tracker.cl:1337/announce
+
+udp://opentracker2.lain.moscow:6969/announce
 
 udp://opentrackr.org:1337/announce
-
-udp://peerfect.org:6969/announce
 
 udp://pubt.in:2710/announce
 
@@ -333,8 +331,6 @@ udp://seedpeer.net:6969/announce
 udp://su-data.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
-
-udp://t1.pow7.com:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
 
@@ -380,11 +376,7 @@ udp://tracker.fatkhoala.org:13790/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.ilibr.org:6969/announce
-
 udp://tracker.ilibr.org:80/announce
-
-udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.k.vu:6969/announce
 
@@ -404,13 +396,9 @@ udp://tracker.okade.pro:1337/announce
 
 udp://tracker.opentrackr.com:1337/announce
 
-udp://tracker.opentrackr.com:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.orsvarn.com:6969/announce
-
-udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
