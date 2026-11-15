@@ -66,8 +66,6 @@ udp://89.234.156.205:451/announce
 
 udp://evan.im:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
@@ -109,8 +107,6 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.evergarden.uk:1914/announce
 
 udp://tracker.nyaa.net:6969/announce
-
-udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.okade.pro:1337/announce
 
