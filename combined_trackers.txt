@@ -6,8 +6,6 @@ http://211.75.205.188:80/announce
 
 http://211.75.210.221:80/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
@@ -66,9 +64,9 @@ udp://89.234.156.205:451/announce
 
 udp://admin.52ywp.com:6969/announce
 
-udp://evan.im:6969/announce
+udp://discover.curiousfacts.blog:6969/announce
 
-udp://explodie.org:6969/announce
+udp://evan.im:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
@@ -85,8 +83,6 @@ udp://open.demonii.com:1337/announce
 udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -112,9 +108,9 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.evergarden.uk:1914/announce
 
-udp://tracker.nyaa.net:6969/announce
+udp://tracker.ilibr.org:6969/announce
 
-udp://tracker.nyaa.vc:6969/announce
+udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.okade.pro:1337/announce
 
@@ -137,5 +133,3 @@ udp://tracker.wildkat.net:6969/announce
 udp://tracker.willy.pro:6969/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://v2.iperson.xyz:6969/announce
