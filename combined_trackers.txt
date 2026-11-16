@@ -24,13 +24,13 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 https://004430.xyz:443/announce
 
@@ -64,6 +64,8 @@ udp://51.81.222.188:6969/announce
 
 udp://89.234.156.205:451/announce
 
+udp://admin.52ywp.com:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
@@ -81,6 +83,8 @@ udp://open.demonii.com:1337/announce
 udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -107,6 +111,8 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.evergarden.uk:1914/announce
 
 udp://tracker.nyaa.net:6969/announce
+
+udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.okade.pro:1337/announce
 
