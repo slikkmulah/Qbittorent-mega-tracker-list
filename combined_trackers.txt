@@ -26,11 +26,11 @@ https://tracker.nekomi.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
 
+https://tracker.yume-hatsuyuki.moe:443/announce
+
 udp://discover.curiousfacts.blog:6969/announce
 
 udp://evan.im:6969/announce
-
-udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -73,6 +73,8 @@ udp://tracker.gmi.gd:6969/announce
 udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
+
+udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.okade.pro:1337/announce
 
