@@ -1,6 +1,16 @@
+http://207.241.226.111:6969/announce
+
+http://207.241.231.226:6969/announce
+
+http://211.75.205.188:80/announce
+
+http://211.75.210.221:80/announce
+
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
+
+http://tracker.auctor.tv:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -9,6 +19,8 @@ http://tracker.dler.com:6969/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -20,6 +32,8 @@ https://1.tracker.eu.org:443/announce
 
 https://t.213891.xyz:443/announce
 
+https://tracker-zhuqiy.dgj055.icu:443/announce
+
 https://tracker.7471.top:443/announce
 
 https://tracker.nekomi.cn:443/announce
@@ -28,11 +42,31 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.yume-hatsuyuki.moe:443/announce
 
+https://tracker.zhuqiy.com:443/announce
+
+udp://185.121.168.96:1337/announce
+
+udp://193.34.92.5:80/announce
+
+udp://31.38.161.123:6969/announce
+
+udp://43.154.112.29:17272/announce
+
+udp://51.15.41.46:6969/announce
+
+udp://51.81.222.188:6969/announce
+
+udp://89.234.156.205:451/announce
+
+udp://admin.52ywp.com:6969/announce
+
 udp://discover.curiousfacts.blog:6969/announce
 
 udp://evan.im:6969/announce
 
 udp://explodie.org:6969/announce
+
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://kolankoalastree.newtrackon.co.nz:1337/announce
 
@@ -56,6 +90,8 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tracker.alt.cx:6969/announce
+
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cn.nyaa.net:6969/announce
@@ -67,6 +103,8 @@ udp://tracker.dler.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.evergarden.uk:1914/announce
 
 udp://tracker.gmi.gd:6969/announce
 
