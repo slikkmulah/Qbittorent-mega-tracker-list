@@ -16,8 +16,6 @@ http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
@@ -57,8 +55,6 @@ udp://51.15.41.46:6969/announce
 udp://51.81.222.188:6969/announce
 
 udp://89.234.156.205:451/announce
-
-udp://admin.52ywp.com:6969/announce
 
 udp://discover.curiousfacts.blog:6969/announce
 
