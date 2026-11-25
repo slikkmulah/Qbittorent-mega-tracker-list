@@ -54,8 +54,6 @@ udp://31.38.161.123:6969/announce
 
 udp://51.15.41.46:6969/announce
 
-udp://51.81.222.188:6969/announce
-
 udp://89.234.156.205:451/announce
 
 udp://admin.52ywp.com:6969/announce
@@ -86,8 +84,6 @@ udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://stairs.lat:6969/announce
@@ -116,6 +112,8 @@ udp://tracker.evergarden.uk:1914/announce
 
 udp://tracker.ilibr.org:6969/announce
 
+udp://tracker.ixuexi.click:6969/announce
+
 udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
@@ -131,6 +129,8 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
 
