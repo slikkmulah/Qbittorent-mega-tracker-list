@@ -54,6 +54,8 @@ udp://31.38.161.123:6969/announce
 
 udp://51.15.41.46:6969/announce
 
+udp://51.81.222.188:6969/announce
+
 udp://89.234.156.205:451/announce
 
 udp://announce.augrains.com:6969/announce
@@ -63,6 +65,8 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://discover.curiousfacts.blog:6969/announce
 
 udp://evan.im:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -81,6 +85,8 @@ udp://open.demonii.com:1337/announce
 udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -110,8 +116,6 @@ udp://tracker.evergarden.uk:1914/announce
 
 udp://tracker.ilibr.org:6969/announce
 
-udp://tracker.ixuexi.click:6969/announce
-
 udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
@@ -133,8 +137,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.torrents.observer:80/announce
 
 udp://tracker.transfur.org:6969/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
