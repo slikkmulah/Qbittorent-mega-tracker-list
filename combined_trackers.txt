@@ -60,6 +60,8 @@ udp://51.15.41.46:6969/announce
 
 udp://89.234.156.205:451/announce
 
+udp://admin.52ywp.com:6969/announce
+
 udp://announce.augrains.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -129,8 +131,6 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.t-rb.org:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.torrents.observer:80/announce
 
